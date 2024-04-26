@@ -1,0 +1,1 @@
+No arquivo HTML deixei alguns exemplos de projetos que eu já havia desenvolvido em um cursinho, entretanto, os projetos(imagens do projeto) não estão linkados a nenhum site pois não consegui a pasta completa com a programação deles. Peço que considere como Imagens meramente ilustrativas*
